@@ -1,0 +1,6 @@
+framework module Pods_AccountKitSampleSwift {
+  umbrella header "Pods-AccountKitSampleSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
